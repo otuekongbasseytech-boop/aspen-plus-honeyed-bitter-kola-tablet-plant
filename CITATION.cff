@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Aspen Plus-Validated Design and Techno-Economic Evaluation of a Honeyed Bitter-Kola (Garcinia kola) Tablet Manufacturing Plant"
+message: "If you use this work, please cite it using the metadata below."
+type: article
+
+authors:
+  - family-names: "Bassey"
+    given-names: "Otuekong Edet"
+    orcid: "https://orcid.org/0009-0000-0728-5190"
+
+  - family-names: "Egbere"
+    given-names: "Cynthia Adaeze"
+
+  - family-names: "Bassey"
+    given-names: "Samuel Edet"
+
+date-released: 2026
+
+keywords:
+  - Aspen Plus
+  - Garcinia kola
+  - Pharmaceutical engineering
+  - Techno-economic analysis
+  - Herbal medicine
+  - Process simulation
+
+license: MIT
